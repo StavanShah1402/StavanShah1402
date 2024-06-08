@@ -1,4 +1,4 @@
-![logo](https://github.com/StavanShah1402/StavanShah1402/blob/main/github-header-image%20(3).png)
+![logo](https://github.com/StavanShah1402/StavanShah1402/blob/main/github-header-image%20(10).png)
 <h1 align="center">Hi 👋, I'm Stavan Shah</h1>
 <h3 align="center">A passionate Data Science Engineer</h3>
 
